@@ -1,4 +1,4 @@
 import pandas as pd
-Import Numpy as np
+import Numpy as np
 
 print("Hello Capstone Project Course!")
